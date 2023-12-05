@@ -2,7 +2,7 @@
 title: "From Workplace Support to Web Development: A Journey of Continuous Learning"
 excerpt: "Hello, everyone! My name is Kevin Merck, and I am a Workplace Support Ambassador with over 12 years of experience in workplace-related support and services."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-11-30T05:35:07.322Z"
+date: "2023-12-01T05:35:07.322Z"
 author:
   name: Kevin Merck
   picture: "/assets/blog/authors/kevinmerck.jpg"
