@@ -7,7 +7,7 @@ const Intro = () => {
        Kevin's Blog 
       </h1>
       <h4 className="text-center md:text-left text-5xl mt-5 md:pl-8">
-        Changing the World 1 line at a time 
+        Changing the World 1 line at a time {''}
       
       </h4>
     </section>
