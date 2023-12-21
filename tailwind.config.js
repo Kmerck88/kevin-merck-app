@@ -4,8 +4,10 @@ module.exports = {
   theme: {
     extend: {
       // fontFamily: {
-      //   sans:['"sans-serif", "sans-serif'],
-
+      //   sans: ['"Caveat", sans-serif'],
+      //   font1: ['"Rubik Bubbles", sans-serif'],
+      //   font2: ['"Whisper", cursive'],
+      //   font3: ['"Smooch", cursive'],
       // },
 
       colors: {
