@@ -40,7 +40,7 @@ export default function Example() {
                   <img
                     className="h-8 w-auto"
                     src="https://www.linkedin.com/in/kevin-merck/"
-                    alt="Your Company"
+                    alt=""
                   />
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
